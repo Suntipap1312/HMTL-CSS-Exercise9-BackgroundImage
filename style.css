@@ -1,0 +1,18 @@
+.html,body {
+  margin: 0;
+  padding: 0;
+}
+
+.landing {
+  background-color: rgb(51, 47, 47);
+  background-position: center;
+  background-image: url("https://cdn.pixabay.com/photo/2013/03/02/02/41/alley-89197_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 300px 40px;
+}
+
+.title {
+  color: white;
+  text-align: center;
+}
